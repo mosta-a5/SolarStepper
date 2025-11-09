@@ -58,4 +58,4 @@ Under the following terms:
 License details: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## 🙌 Credits
-Created by Mostafa Zakaria. Please credit the original author when using or modifying this project.
+Created by Mostafa Alakhreety. Please credit the original author when using or modifying this project.
